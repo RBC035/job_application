@@ -1,0 +1,62 @@
+
+
+.bg-primary-2{
+    background-color: rgb(10, 174, 224);
+}
+
+.h-79{
+    height: 70px;
+  }
+
+  .h-fixed-md{
+    height: 45rem;
+  }
+
+  .text-warning-2{
+    color: orange;
+  }
+
+  .bg-info-2{
+    background-color:rgba(255, 93, 69, 0.6);
+  }
+  
+  .bg-warning-2{
+    background-color: orange;
+  }
+
+  .h-fixed{
+    height: 42.5rem;
+  }
+
+  .h-fixed-xs{
+    height: 9rem;
+  }
+
+  .display-7{
+    font-size: 1.2rem;
+  }
+
+
+.font-f-s{
+    font-family: initial;
+    font-size: 1.5rem;
+  }
+  
+  .font-f{
+    font-family: initial;
+  }
+  
+  .list-none{
+    list-style: none;
+  }
+  
+  
+  .w-fixed{
+    width: 210px;
+  }
+
+  .text-none{
+    text-decoration: none;
+  }
+
+  
